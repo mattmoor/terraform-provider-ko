@@ -19,6 +19,7 @@ resource "ko_image" "example" {
 See provider examples:
 
 - [Google Cloud Run](./provider-examples/cloudrun/README.md)
+- [AWS ECS](./provider-examples/ecs/README.md)
 - [fly.io](./provider-examples/fly.io/README.md)
 - [Kubernetes](./provider-examples/kubernetes/README.md)
 
